@@ -54,12 +54,12 @@ XML y .DAT, ediciones de estos para los casos de fallas de envíos.
 
 ###### [](#header-6)Header 6
 
-| I.B.M.       |   Z-ZEUS          |  NETSER  |
-|:-------------|:------------------|:---------|
-| Esp. Técnico | Consultor técnico | Operador |
-| `Avanzado`      | `Avanzado`     | `Experto`
+| I.B.M.       |   Z-ZEUS          |  NETSER  | TRANSVALCAR |
+|:-------------|:------------------|:---------|:----------- |
+| Esp. Técnico | Consultor técnico | Operador | Gerente Tel |
+| `Avanzado`      | `Avanzado`     | `Experto`| `Avanzado`  |
 
-
+[Soportes click aqui-->](https://drive.google.com/file/d/1myoq5EEMhu9mdYEAgqSyjCTs6l3-gOOH/view)
 ### There's a horizontal rule below this.
 
 * * *
