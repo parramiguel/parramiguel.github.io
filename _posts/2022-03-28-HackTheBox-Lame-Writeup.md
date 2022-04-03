@@ -59,7 +59,7 @@ XML y .DAT, ediciones de estos para los casos de fallas de envíos.
 | Esp. Técnico | Consultor técnico | Operador | Gerente Tel |
 | `Avanzado`      | `Avanzado`     | `Experto`| `Avanzado`  |
 
-[<Soportes click aqui>](https://drive.google.com/file/d/1myoq5EEMhu9mdYEAgqSyjCTs6l3-gOOH/view)
+[Soportes click aqui](https://drive.google.com/file/d/1myoq5EEMhu9mdYEAgqSyjCTs6l3-gOOH/view)
 ### There's a horizontal rule below this.
 
 * * *
