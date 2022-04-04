@@ -71,7 +71,7 @@ operar equipos del mismo.
 • Mantenimiento en Red en el ámbito nacional de Cajeros automáticos (ATM) por medio de la consola del sistema.
 • Backup diario de las actividades bancarias realizadas en las diferentes agencias en el ámbito nacional.
 
-###### [](#header-6)Empresas IT
+###### [](#header-6)Otras Empresas IT
 
 | I.B.M.       |   Z-ZEUS          |  NETSER  | TRANSVALCAR |
 |:-------------|:------------------|:---------|:----------- |
