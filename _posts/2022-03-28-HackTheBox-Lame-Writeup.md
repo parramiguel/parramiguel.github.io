@@ -52,7 +52,26 @@ XML y .DAT, ediciones de estos para los casos de fallas de envíos.
 2.  Distrito Capital.
 3.  Entre otras entidades INE a nivel nacional.
 
-###### [](#header-6)Header 6
+##### [](#header-3) EDS
+
+• Soporte de conectividad y soporte a la aplicación. • Monitoreo de la red de usuario a través del software de gestión.
+• Instalación y conexión telefónica, configuración de router y hubs a diferentes estaciones de trabajo.
+• Administración de clientes nuevos: Como outsourcing de General Motor de Venezuela se le proporcionaba los niveles de
+• Soporte de conectividad y soporte a la aplicación. • Monitoreo de la red de usuario a través del software de gestión.
+• Instalación y conexión telefónica, configuración de router y hubs a diferentes estaciones de trabajo.
+• Administración de clientes nuevos: Como outsourcing de General Motor de Venezuela se le proporcionaba los niveles de
+seguridad para aquellos invitados de los diferentes continentes del mundo.  seguridad para aquellos invitados de los diferentes continentes del mundo.
+
+#### [](#header-3) Banco Consolidado
+
+• Administración de clientes con tarjeta de American Express (AMEX), Dinners Club, tarjetas de cajeros automáticos de los
+Banco Unión, Mercantil, Venezuela y Latino, Conexus. P.O.S. (Point of Sale)
+• Supervisión rotativa del BASE-24 en los diferentes turnos de trabajo (Diurno o Nocturno), cursos de MVS / JES2 en IBM para
+operar equipos del mismo.
+• Mantenimiento en Red en el ámbito nacional de Cajeros automáticos (ATM) por medio de la consola del sistema.
+• Backup diario de las actividades bancarias realizadas en las diferentes agencias en el ámbito nacional.
+
+###### [](#header-6)Empresas IT
 
 | I.B.M.       |   Z-ZEUS          |  NETSER  | TRANSVALCAR |
 |:-------------|:------------------|:---------|:----------- |
