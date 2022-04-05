@@ -3,7 +3,7 @@ title: 	INGENIERO DE SISTEMAS
 published: true
 ---
 
-Experiencia en Banca y  **SCRIPT** EJ, ~~guardar ciertas obras~~ or `Palabra Clave`.
+Experiencia en Banca.
 
 [Enlace WEB a UBA](http://bit.ly/2lJMsgO).
 
