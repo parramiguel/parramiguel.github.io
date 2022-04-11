@@ -1,5 +1,5 @@
 ---
-title: 	INGENIERO DE SISTEMAS
+title: 	EXPERIENCIAS Y EDUCACIÓN
 published: true
 ---
 
