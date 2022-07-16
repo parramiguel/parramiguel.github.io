@@ -78,4 +78,4 @@ operar equipos del mismo.
 | Esp. Técnico | Consultor técnico | Operador | Gerente Tel |
 | `Avanzado`      | `Avanzado`     | `Experto`| `Avanzado`  |
 
-[Soportes click aqui](https://drive.google.com/file/d/1myoq5EEMhu9mdYEAgqSyjCTs6l3-gOOH/view)
+[Soportes click aqui](https://drive.google.com/file/d/0B7-WI7n6pz2fYzlGeDBMRllUTWc/view?usp=sharing&resourcekey=0-e5Tn22GJ3syWB3CXgjWUlw)
