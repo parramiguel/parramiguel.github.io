@@ -9,7 +9,7 @@ title: Índice
     {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
     {% capture firstpostyear %}{{ site.posts[0].date | date: '%Y' }}{% endcapture %}
     {% if currentyear == firstpostyear %}
-        <h3>Posts de este año 2022</h3>
+        <h3>Posts anual</h3>
     {% else %}  
         <h3>{{ firstpostyear }}</h3>
     {% endif %}
