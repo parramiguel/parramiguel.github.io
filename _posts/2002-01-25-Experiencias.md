@@ -77,4 +77,4 @@ operar equipos del mismo.
 | Esp. Técnico | Consultor técnico | Operador | Gerente Tel |
 | `Avanzado`      | `Avanzado`     | `Experto`| `Avanzado`  |
 
-[Soportes click aqui](https://forms.gle/EVgY9Ey1WrWEH87V7)
+[Soportes click aqui](https://drive.google.com/file/d/1nNlMpGsuRTlg0Ht1Y_2BDU_f9sdufHil/view?usp=drive_link)
