@@ -8,3 +8,4 @@ Banco Unión, Mercantil, Venezuela y Latino, Conexus. P.O.S. (Point of Sale)
 operar equipos del mismo.
 • Mantenimiento en Red en el ámbito nacional de Cajeros automáticos (ATM) por medio de la consola del sistema.
 • Backup diario de las actividades bancarias realizadas en las diferentes agencias en el ámbito nacional en equipos TANDEM COMPUTERS.
+• Verificación de logs y ejecución desde consola POS de diferentes estaciones de servicios de gasolina, AMEX, DINNERS.
