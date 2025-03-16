@@ -9,7 +9,7 @@ Experiencia en Banca.
 
 Continuar creciendo profesionalmente y contribuir con la expansión de la organización. Afrontar nuevos retos y expandir mis conocimientos para el beneficio del equipo al que pertenezco, y usar los mismos para satisfacer todos los requisitos del cargo.
 
-# [](#header-1) RMG / Mi Banco -Oct 2019 - actual 
+# [](#header-1) RMG / Mi Banco -Oct 2019 - Marz 2025 
 
 Operaciones y monitoreo de gestión diaria en el TSM, respaldo y restauración siguiendo la cadena de mando dictado por la gerencia de
 operaciones, actualmente se está trabajando con la herramienta de COMMVAULT, ésta herramienta facilita la labor junto al TSM, ante los constantes requerimientos de los usuarios para realizar tareas de restauraciones históricas con fechas que solicitan cintas magnéticas. Verificación de LOGS para backups en estados de alertas (exitos, fallidos o running)
