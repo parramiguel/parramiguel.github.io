@@ -12,7 +12,7 @@ published: true
  • Herramientas de Monitoreo de Bases de Datos
     1.- MySQL Workbench: Monitoreo y gestión de bases de datos MySQL.
         Análisis de rendimiento y optimización de consultas: 
-   2.- pgAdmin
+    2.- pgAdmin
        Monitoreo y gestión de bases de datos PostgreSQL.
        Visualización de métricas y estado de la base de datos
  • Automatización: Bash Scripting, PowerShell, Python Scripting
