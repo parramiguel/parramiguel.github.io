@@ -7,7 +7,7 @@ published: true
  • Herramientas DevOps: Docker, Kubernetes, Jenkins, Git, Ansible, Terraform
  • Cloud Computing: AWS, Azure, Google Cloud Platform (GCP)
  • Bases de Datos: MySQL, PostgreSQL, MongoDB
- • Sistemas Operativos: Linux (Ubuntu, CentOS), Windows Server
+ • Sistemas Operativos: Linux (Ubuntu, CentOS, Kali), Windows Server
  • Herramientas de Monitoreo: Nagios, Prometheus, Grafana
  • Herramientas de Monitoreo de Bases de Datos
     1.- MySQL Workbench: Monitoreo y gestión de bases de datos MySQL.
