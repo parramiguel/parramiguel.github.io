@@ -9,6 +9,10 @@ Experiencia en Banca.
 
 Continuar creciendo profesionalmente y contribuir con la expansión de la organización. Afrontar nuevos retos y expandir mis conocimientos para el beneficio del equipo al que pertenezco, y usar los mismos para satisfacer todos los requisitos del cargo.
 
+# [](#header-1) MÉTRICA ANDINA / KYNDRYL. Mayo 2025 - Junio 2025
+
+Como continuidad de las actividades en el período de cargo anterior (RMG) velar por capacitación a operadores del área de data ware house en las ejecuciones de procesos de mallas asi como velar la finalización exitosa, en paralelo verificar los Backup y restauraciones desde commvault y TSM en plataforma de LINUX y Windows, estas tareas mediante tickets en el JIRA ATLASSIAN.
+
 # [](#header-1) RMG / Mi Banco -Oct 2019 - Marz 2025 
 
 Operaciones y monitoreo de gestión diaria en el TSM, respaldo y restauración siguiendo la cadena de mando dictado por la gerencia de
