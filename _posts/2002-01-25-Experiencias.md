@@ -68,4 +68,4 @@ Banco Unión, Mercantil, Venezuela y Latino, Conexus. P.O.S. (Point of Sale)
 | Esp. Técnico | Consultor técnico | Operador | Gerente Tel |
 | `Avanzado`   | `Avanzado`        | `Experto`| `Avanzado`  |
 
-[Soportes click aqui](https://drive.google.com/file/d/1nNlMpGsuRTlg0Ht1Y_2BDU_f9sdufHil/view?usp=drive_link)
+[Soportes click aqui](https://drive.google.com/file/d/1G7r8jDtqjd9OMvW2XfeSsH4WtwJa6WLS/view?usp=drive_link)
