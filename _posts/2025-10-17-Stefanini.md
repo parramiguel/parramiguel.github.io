@@ -3,6 +3,7 @@ title: STEFANINI GROUP
 published: true
 ---
 
+--- Analista de Despliegue Junior ---
 1. Apoyo en la Planificación y Coordinación
 . Asistir en la elaboración de cronogramas de despliegue (calendarios de releases).
 . Participar en reuniones de coordinación entre desarrollo, operaciones (IT/Ops) y QA.
