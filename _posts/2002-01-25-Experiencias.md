@@ -9,6 +9,10 @@ Experiencia en Banca.
 
 Continuar creciendo profesionalmente y contribuir con la expansión de la organización. Afrontar nuevos retos y expandir mis conocimientos para el beneficio del equipo al que pertenezco, y usar los mismos para satisfacer todos los requisitos del cargo.
 
+# [](#header-1) STEFANINI GROUP Octubre 2025 - actual
+
+Perfil operativo y técnico clave en el ciclo de vida del software, actuando como puente entre el desarrollo y la operación, con foco en implementar cambios de forma segura, documentada y eficiente. Es un rol de entrada ideal al mundo de las operaciones IT y DevOps, 100% efectividad en el despliegue para el team operacional.
+
 # [](#header-1) MÉTRICA ANDINA / KYNDRYL. Mayo 2025 - Junio 2025
 
 Como continuidad de las actividades en el período de cargo anterior (RMG) velar por capacitación a operadores del área de data ware house en las ejecuciones de procesos de mallas asi como velar la finalización exitosa, en paralelo verificar los Backup y restauraciones desde commvault y TSM en plataforma de LINUX y Windows, estas tareas mediante tickets en el JIRA ATLASSIAN.
